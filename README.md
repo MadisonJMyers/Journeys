@@ -2,10 +2,10 @@
 
 ## Why SystemML?
 
-### At UC Berkeley, we're taught R and Python. SystemML runs with R and Python. Being new to computer science and wanting to jump straight into the data doesn't allow me much time to hack into Spark and figure out how to write high-level math with big data. On SystemML you can write the math no matter how big the data is! Because I can access algorithms from files, it's easier to go from formulas and R code to big data problems.
+### During my time as a UC Berkeley grad student, we were taught R and Python, so that is what I'm familar with. SystemML runs with R and Python. Being new to computer science and wanting to jump straight into the data doesn't allow me much time to hack into Spark and figure out how to write high-level math with big data. On SystemML you can write the math no matter how big the data is! Because I can access algorithms from files, it's easier to go from formulas and Python code to big data problems.
 ## Now let's get to my first dive into SystemML where I’ll focus on: overcoming assumptions.
 
-### While I may still be very new to the tech world and all of its wonderful tutorials, an issue that I have consistently noticed thus far, is the long list of assumptions made in any step by step guide, particularly in setting up your environment. Many developers, data scientists and researchers are so advanced, they have forgotten what it’s like to be new! When writing tutorials, they assume that everything is set up and ready to go, but that’s not always the case. No need to worry with SystemML: I am here to help. Below is my very own step by step guide to running SystemML on Jupyter notebook (with little to no assumptions).
+### While I may still be very new to the tech world and all of its wonderful tutorials, an issue that I have consistently noticed thus far, is the long list of assumptions made in any step by step guide, particularly in setting up your environment. Many developers, data scientists and researchers are so advanced, they have forgotten what it’s like to be new! When writing tutorials, they assume that everything is set up and ready to go, but that’s not always the case. No need to worry with SystemML: I am here to help. Below is my very own step by step guide to running Apache SystemML on Jupyter notebook (with little to no assumptions).
 
 
 
